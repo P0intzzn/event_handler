@@ -1,0 +1,30 @@
+{
+  "en": "Please generate a {time_period} greeting. {user_part}Requirements:\n1. Style: {selected_style}\n2. Length: 5-15 words (max 20)\n3. Must be concise, warm, and infectious.\n4. You can use quotes, idioms, slang, or casual language.\n5. Return ONLY the greeting content itself, no explanations.\n\nNow please generate:",
+  
+  "zh": "请生成一句{time_period}问候语，{user_part}要求：\n1. 风格：{selected_style}\n2. 字数：5-15字（不超过20字）\n3. 要求简短、温暖、有感染力\n4. 可以使用诗句、成语、网络流行语、日常口语等多样化表达\n5. 只返回问候语内容本身，不要任何解释或标点后的说明\n\n示例风格参考：\n- 诗意：晨光熹微，愿你诗意栖居\n- 元气：冲鸭！今天也要闪闪发光\n- 古风：晨起候君安，愿君事事顺遂\n\n现在请生成：",
+  "zh-CN": "请生成一句{time_period}问候语，{user_part}要求：\n1. 风格：{selected_style}\n2. 字数：5-15字（不超过20字）\n3. 要求简短、温暖、有感染力\n4. 可以使用诗句、成语、网络流行语、日常口语等多样化表达\n5. 只返回问候语内容本身，不要任何解释或标点后的说明\n\n现在请生成：",
+  "zh-Hans": "请生成一句{time_period}问候语，{user_part}要求：\n1. 风格：{selected_style}\n2. 字数：5-15字（不超过20字）\n3. 要求简短、温暖、有感染力\n4. 可以使用诗句、成语、网络流行语、日常口语等多样化表达\n5. 只返回问候语内容本身，不要任何解释或标点后的说明\n\n现在请生成：",
+  
+  "id": "Tolong buatkan salam {time_period}, {user_part}Syarat:\n1. Gaya: {selected_style}\n2. Panjang: 5-15 kata (maksimal 20)\n3. Singkat, hangat, dan berkesan.\n4. Bisa menggunakan peribahasa, bahasa gaul, atau percakapan sehari-hari.\n5. Hanya kembalikan teks salam saja, tanpa penjelasan.\n\nSekarang silakan buat:",
+  
+  "th": "กรุณาสร้างคำทักทายตอน{time_period} {user_part}ข้อกำหนด:\n1. สไตล์: {selected_style}\n2. ความยาว: 5-15 คำ (ไม่เกิน 20)\n3. สั้น อบอุ่น และประทับใจ\n4. สามารถใช้บทกวี สำนวน คำแสลง หรือภาษาพูดทั่วไปได้\n5. ตอบกลับเฉพาะตัวข้อความทักทายเท่านั้น ไม่ต้องมีคำอธิบายเพิ่มเติม\n\nตอนนี้กรุณาสร้าง:",
+  
+  "tl": "Mangyaring bumuo ng isang pagbati sa {time_period}, {user_part}Mga kinakailangan:\n1. Estilo: {selected_style}\n2. Haba: 5-15 salita (max 20)\n3. Maikli, mainit, at nakakaantig.\n4. Maaaring gumamit ng mga tula, idyoma, o pang-araw-araw na pananalita.\n5. Ibalik LAMANG ang mismong pagbati, walang paliwanag.\n\nNgayon, pakigawa:",
+  "fil": "Mangyaring bumuo ng isang pagbati sa {time_period}, {user_part}Mga kinakailangan:\n1. Estilo: {selected_style}\n2. Haba: 5-15 salita (max 20)\n3. Maikli, mainit, at nakakaantig.\n4. Maaaring gumamit ng mga tula, idyoma, o pang-araw-araw na pananalita.\n5. Ibalik LAMANG ang mismong pagbati, walang paliwanag.\n\nNgayon, pakigawa:",
+  
+  "ms": "Sila hasilkan ucapan selamat {time_period}, {user_part}Syarat:\n1. Gaya: {selected_style}\n2. Panjang: 5-15 patah perkataan (maks 20)\n3. Ringkas, hangat dan berkesan.\n4. Boleh menggunakan puisi, peribahasa, atau bahasa harian.\n5. Berikan ucapan SAHAJA, tanpa sebarang penjelasan.\n\nSekarang sila hasilkan:",
+  
+  "vi": "Hãy tạo một lời chào buổi {time_period}, {user_part}Yêu cầu:\n1. Phong cách: {selected_style}\n2. Độ dài: 5-15 từ (tối đa 20)\n3. Ngắn gọn, ấm áp và truyền cảm hứng.\n4. Có thể sử dụng thơ, thành ngữ, từ lóng hoặc ngôn ngữ hàng ngày.\n5. Chỉ trả về nội dung lời chào, không giải thích gì thêm.\n\nBây giờ hãy tạo:",
+  
+  "es": "Por favor, genera un saludo de {time_period}. {user_part}Requisitos:\n1. Estilo: {selected_style}\n2. Longitud: 5-15 palabras (máx 20)\n3. Breve, cálido e inspirador.\n4. Puedes usar rimas, modismos o lenguaje coloquial.\n5. Devuelve SOLO el saludo, sin explicaciones.\n\nAhora, genera:",
+  
+  "pt": "Por favor, gere uma saudação de {time_period}. {user_part}Requisitos:\n1. Estilo: {selected_style}\n2. Comprimento: 5-15 palavras (máx 20)\n3. Breve, caloroso e inspirador.\n4. Pode usar versos, expressões idiomáticas ou linguagem cotidiana.\n5. Retorne APENAS a saudação, sem explicações.\n\nAgora, gere:",
+  
+  "fr": "Veuillez générer une salutation pour le {time_period}. {user_part}Exigences:\n1. Style: {selected_style}\n2. Longueur: 5-15 mots (max 20)\n3. Court, chaleureux et inspirant.\n4. Vous pouvez utiliser de la poésie, des expressions ou du langage courant.\n5. Renvoyez UNIQUEMENT la salutation, sans explication.\n\nMaintenant, générez:",
+  
+  "ja": "生成してください、{time_period}の挨拶を。{user_part}要件：\n1. スタイル：{selected_style}\n2. 文字数：10-20文字程度\n3. 短く、温かく、心に響くもの\n4. 挨拶の内容のみを返し、説明や余計な記号は不要\n\nでは、生成してください：",
+  "Nihongo": "生成してください、{time_period}の挨拶を。{user_part}要件：\n1. スタイル：{selected_style}\n2. 文字数：10-20文字程度\n3. 短く、温かく、心に響くもの\n4. 挨拶の内容のみを返し、説明や余計な記号は不要\n\nでは、生成してください：",
+  
+  "ko": "따뜻한 {time_period} 인사말을 생성해 주세요. {user_part}요구사항:\n1. 스타일: {selected_style}\n2. 길이: 5-15자 이내 (최대 20자)\n3. 짧고 따뜻하며 감동적인 표현\n4. 설명 없이 오직 인사말 내용만 반환\n\n지금 바로 생성해 주세요:",
+  "Hangugeo": "따뜻한 {time_period} 인사말을 생성해 주세요. {user_part}요구사항:\n1. 스타일: {selected_style}\n2. 길이: 5-15자 이내 (최대 20자)\n3. 짧고 따뜻하며 감동적인 표현\n4. 설명 없이 오직 인사말 내용만 반환\n\n지금 바로 생성해 주세요:"
+}

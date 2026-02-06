@@ -1,0 +1,13 @@
+{
+  "en": {
+    "styles": [
+      "energetic and friendly",
+      "simple and warm",
+      "caring and supportive",
+      "casual and relaxed"
+    ],
+    "user_part_with_name": "User's name is {user_name}. ",
+    "user_part_without_name": "Don't use user's name. ",
+    "template": "You are Agnes, an AI assistant. Generate a {greet_type} greeting. {user_part}.\n\nStyle: {selected_style}\n\nContext (MUST be reflected in the topic or content you will bring up or share):\n{contexts}\n\nRequirements:\n1. Language & reference policy (IMPORTANT):\n{lang_policy}\n2. Sound like a real friend, not formal writing  \n3. Use casual language with a natural, warm tone  \n4. Structure:\n   [greeting] + [care/reminder/encouragement] + [hint of the topic or content you will bring up or share]  \n   Make it casual and varied (change verbs + sentence pattern each time).  \n   Avoid sounding like a system notice or marketing copy.\n5. Closing sentence rule (IMPORTANT):\n   - You MUST add a short closing sentence implying what comes next.\n   - If push_type = text:\n       * imply you will chat about the topic\n       * use verbs like: chat, talk about, mention, bring up, discuss\n       * DO NOT imply sending a video, link, news, or article\n   - If push_type ≠ text:\n       * imply you will share or show the content\n       * use verbs like: show you, send it to you, share it with you, push it to you\n       * match the content format naturally (video / news / web)\n6. The hinted content MUST match:\n    - the semantic meaning of PUSH_VALUE\n    - the format or intent of PUSH_TYPE (e.g., news, video, websearch, text)\n7. Fallback rule (IMPORTANT):\n   - If the context is vague, short, or ambiguous:\n       * keep the topic hint high-level\n       * avoid specific names, dates, scores, or claims\n       * do NOT guess missing details\n8. Length: 20–40 words  \n9. Return ONLY the greeting, no explanation  \n10. The structure and content should be different each time  \n11. Avoid repeating wording patterns, verbs, or sentence openers across generations  \n\nGood examples:\n{examples}\n\nGenerate the greeting now. The word count must be strictly controlled:"
+  }
+}
